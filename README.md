@@ -6,18 +6,13 @@ This repo is a place to play around with machine learning models to get an under
 
 **RNNs**
 
-**Transformers**
+**Other categories to explore in the future:**
 
-**GANs**
-
-**Probabilistic Graphical Models**
-
-**Regression Models**
-
-**Classification Models**
-
-**Clustering Models**
-
-**Dimensionality Reduction**
-
-**Reinforcement Learning**
+*Transformers
+*GANs
+*Probabilistic Graphical Models
+*Regression Models
+*Classification Models
+*Clustering Models
+*Dimensionality Reduction
+*Reinforcement Learning
