@@ -19,3 +19,5 @@ This repo is a place to play around with machine learning models to get an under
 **Clustering Models**
 
 **Dimensionality Reduction**
+
+**Reinforcement Learning**
