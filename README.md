@@ -8,4 +8,6 @@ Below I will list the files containing each of the models I build, under the sub
 
 **RNNs**
 
-**Other categories to explore in the future:** Transformers, GANs, Probabilistic Graphical Models, Regression Models, Classification Models, Clustering Models, Dimensionality Reduction, Reinforcement Learning
+**Model categories to explore in the future:** Transformers, GANs, Probabilistic Graphical Models, Regression Models, Classification Models, Clustering Models, Dimensionality Reduction, Reinforcement Learning
+
+**Areas to do comparitive studies on:** Optimisation algorithms, regularisation, loss functions, one-shot learning
