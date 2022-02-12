@@ -1,4 +1,4 @@
-# Machine Learning/ Digital Signal Processing Playground
+# Machine Learning Playground
 
 This repo is a place where I play around with machine learning algorithms to get an understanding of how they work and practical experience of implementing them. This may include classic statistical models, deep learning and topics from DSP which are not really ML but sort of fit in here anyway such as ARMA models (if enough of the DSP stuff accumulates then I may refactor this out into its on repo).
 
