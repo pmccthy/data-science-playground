@@ -9,7 +9,7 @@ This repo is a place where I play around with machine learning algorithms to get
 ## Recurrent Neural Networks (RNNs)
 
 * [RNNs/vanilla_rnn.ipynb](RNNs/vanilla_rnn.ipynb): Generic RNN architecture
-* [RNNs/lstm.ipynb](RNNs/lstm.ipynb):
+* [RNNs/lstm.ipynb](RNNs/lstm.ipynb): RNNs which use Long Short-Term Memory (LSTM) blocks
 
 ## Autoencoders
 
