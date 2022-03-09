@@ -4,11 +4,11 @@ This repo is a place where I play around with machine learning algorithms to get
 
 ## Convolutional Neural Networks (CNNs)
 
-* [CNNs/vanilla_cnn.ipynb](CNNs/vanilla_cnn.ipynb): Generic CNN architecture
+* [CNNs/vanilla_cnn.ipynb](CNNs/vanilla_cnn.ipynb): Generic CNN architectures
 
 ## Recurrent Neural Networks (RNNs)
 
-* [RNNs/vanilla_rnn.ipynb](RNNs/vanilla_rnn.ipynb): Generic RNN architecture
+* [RNNs/vanilla_rnn.ipynb](RNNs/vanilla_rnn.ipynb): Generic RNN architectures
 * [RNNs/lstm.ipynb](RNNs/lstm.ipynb): RNNs which use Long Short-Term Memory (LSTM) blocks
 
 ## Autoencoders
