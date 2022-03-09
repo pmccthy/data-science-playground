@@ -4,9 +4,22 @@ This repo is a place where I play around with machine learning algorithms to get
 
 **CNNs**
 
+Convolutional neural networks.
+
+* [vanilla_cnn.ipynb](CNNs/vanilla_cnn.ipynb): Generic CNN architecture
+
 **RNNs**
 
+Recurrent neural networks.
+
+* [vanilla_rnn.ipynb](RNNs/vanilla_rnn.ipynb):
+* [lstm.ipynb](RNNs/lstm.ipynb):
+
 **Autoencoders**
+
+Autoencoder networks.
+
+* [vanilla_autoencoder.ipynb](autoencoders/vanilla_autoencoder.ipynb): 
 
 **Model categories to explore in the future:** Transformers, GANs, Probabilistic Graphical Models, Regression Models, Classification Models, Clustering Models, Dimensionality Reduction, Reinforcement Learning, ARMA models
 
