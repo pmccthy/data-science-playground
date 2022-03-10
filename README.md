@@ -1,6 +1,6 @@
 # Data Science Playground
 
-This repo is a place where I play around with machine learning and digital signal processing to get an understanding of how they work and how to implement them with standard libraries. This includes classic statistical models, probabilistic models, deep learning, and DSP concepts and algorithms. As this grows, I may refactor it out into two repos to separate the ML and DSP content, but for now it is intermixed.
+This repo is a place where I play around with machine learning models and digital signal processing algorithms to get an understanding of how they work and how to implement them with standard libraries. This includes classic statistical models, probabilistic models, deep learning, and DSP concepts and algorithms. As this grows, I may refactor it out into two repos to separate the ML and DSP content, but for now it is intermixed.
 
 ## Convolutional Neural Networks (CNNs)
 
@@ -15,7 +15,7 @@ This repo is a place where I play around with machine learning and digital signa
 
 * [autoencoders/vanilla_autoencoder.ipynb](autoencoders/vanilla_autoencoder.ipynb): Generic autoencoder architecture
 
-## Model categories to explore in the future
+## ML categories to explore
 
 * Transformers
 * GANs
@@ -25,9 +25,15 @@ This repo is a place where I play around with machine learning and digital signa
 * Clustering Models
 * Dimensionality Reduction
 * Reinforcement Learning
-* ARMA models
+ 
+## DSP areas to explore
 
-## Areas to do comparitive studies on
+* Time series modelling (ARMA)
+* Transforms
+* Decompositions
+* Windows
+
+## ML areas to do comparitive studies on
 
 * Optimisation algorithms
 * Regularisation
