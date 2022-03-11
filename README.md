@@ -15,7 +15,7 @@ This repo is a place where I play around with machine learning models and digita
 
 * [autoencoders/vanilla_autoencoder.ipynb](autoencoders/vanilla_autoencoder.ipynb): Generic autoencoder architecture
 
-## Decomposititons
+## Decompositions
 
 * [decompositions/svd.ipynb](decompositions/svd.ipynb): Singular Value Decomposition exploration
 ## ML categories to explore
