@@ -17,8 +17,9 @@ This repo is a place where I play around with machine learning models and digita
 
 ## Decompositions
 
-* [decompositions/svd.ipynb](decompositions/svd.ipynb): Singular Value Decomposition exploration
-* [decompositions/pca.ipynb](decompositions/pca.ipynb): Principal Component Analysis exploration
+* [decompositions/svd.ipynb](decompositions/svd.ipynb): Singular value decomposition exploration
+* [decompositions/pca.ipynb](decompositions/pca.ipynb): Principal component analysis exploration
+* [decompositions/lda.ipynb](decompositions/lda.ipynb): Linear discriminant analysis exploration
 
 ## Windows
 
