@@ -19,7 +19,10 @@ This repo is a place where I play around with machine learning models and digita
 
 * [decompositions/svd.ipynb](decompositions/svd.ipynb): Singular value decomposition exploration
 * [decompositions/pca.ipynb](decompositions/pca.ipynb): Principal component analysis exploration
-* [decompositions/lda.ipynb](decompositions/lda.ipynb): Linear discriminant analysis exploration
+
+## Classical Classification Models
+
+* [classification/lda.ipynb](classification/lda.ipynb): Linear discriminant analysis exploration
 
 ## Windows
 
@@ -28,20 +31,19 @@ This repo is a place where I play around with machine learning models and digita
 ## ML categories to explore
 
 * Transformers
-* GANs
-* Probabilistic Graphical Models
-* Regression Models
-* Classification Models
-* Clustering Models
-* Dimensionality Reduction
-* Reinforcement Learning
+* GANs (StyleGAN, CycleGAN etc.)
+* Probabilistic Graphical Models (HMRFs, Bayesian Networks etc.)
+* Classical Regression Models (GLMs etc.)
+* Classical Classification Models (LDA, KNN, Naive-Bayes etc.)
+* Classical Clustering Models (K-means, hierarchical etc.)
+* Kernel-based methods (SVMs etc.)
  
 ## DSP areas to explore
 
 * Time series modelling (ARMA)
-* Transforms
-* Decompositions
-* Windows
+* Transforms (FFT, Laplace, Wavelet, Hilbert etc.)
+* Decompositions (SVD, PCA, NMF, EMD etc.)
+* Windows (comparison of different pre-FFT windows in time and frequency domains)
 
 ## ML areas to do comparitive studies on
 
