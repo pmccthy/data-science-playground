@@ -18,6 +18,11 @@ This repo is a place where I play around with machine learning models and digita
 ## Decompositions
 
 * [decompositions/svd.ipynb](decompositions/svd.ipynb): Singular Value Decomposition exploration
+
+## Windows
+
+* [windows.ipynb](windows.ipynb): Explores the uses of different window functions in the time and frequency domains
+
 ## ML categories to explore
 
 * Transformers
