@@ -31,13 +31,15 @@ This repo is a place where I play around with machine learning models and digita
 ## ML categories to explore
 
 * Transformers
+* Graph Neural Networks (GNNs)
 * GANs (StyleGAN, CycleGAN etc.)
 * Probabilistic Graphical Models (HMRFs, Bayesian Networks etc.)
 * Classical Regression Models (GLMs etc.)
 * Classical Classification Models (LDA, KNN, Naive-Bayes etc.)
 * Classical Clustering Models (K-means, hierarchical etc.)
 * Kernel-based methods (SVMs etc.)
- 
+* Maximum-Likelihood Estimation
+
 ## DSP areas to explore
 
 * Time series modelling (ARMA)
