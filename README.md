@@ -26,6 +26,11 @@ This repo is a place where I play around with machine learning models and digita
 
 * [classification/lda.ipynb](classification/lda.ipynb): Linear discriminant analysis exploration
 
+## Transforms
+
+* [transforms/fft_from_scratch.ipynb](transforms/fft_from_scratch.ipynb): Implementation of the FFT algorithm from scratch to compute the DFT
+* [transforms/hilbert.ipynb](transforms/hilbert.ipynb): Explores the Hilbert transform and its use for computing instantaneous phase and frequency
+
 ## Windows
 
 * [windows.ipynb](windows.ipynb): Explores the uses of different window functions in the time and frequency domains
