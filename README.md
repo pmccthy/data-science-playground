@@ -29,7 +29,7 @@ This repo is a place where I play around with machine learning models and digita
 ## Transforms
 
 * [transforms/fft_from_scratch.ipynb](transforms/fft_from_scratch.ipynb): Implementation of the FFT algorithm from scratch to compute the DFT
-* [transforms/wavelet.ipynb](transforms/wavelet.ipynb): Explores the continuous wavelet transform and its application to time-frequency analysis of non-stationary signals
+* [transforms/wavelet.ipynb](transforms/wavelet.ipynb): Explores the continuous wavelet transform and its application to analysis of non-stationary signals
 * [transforms/hilbert.ipynb](transforms/hilbert.ipynb): Explores the Hilbert transform and its use for computing instantaneous phase and frequency
 
 ## Windows
