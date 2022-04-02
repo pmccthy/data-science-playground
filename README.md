@@ -8,6 +8,10 @@ This repo is a place where I play around with machine learning models and digita
 
 * [CNNs/vanilla_cnn.ipynb](CNNs/vanilla_cnn.ipynb): Generic CNN architectures
 
+## Graph Neural Networks (GNNs)
+
+* [GNNs/gnn.ipynb](GNNs/gnn.ipynb): Exploring the ideas behind and implementations of GNNs
+
 ## Recurrent Neural Networks (RNNs)
 
 * [RNNs/vanilla_rnn.ipynb](RNNs/vanilla_rnn.ipynb): Generic RNN architectures
