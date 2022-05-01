@@ -34,12 +34,16 @@ This repo is a place where I play around with machine learning models and digita
 
 * [transforms/fft_from_scratch.ipynb](transforms/fft_from_scratch.ipynb): Implementation of the FFT algorithm from scratch to compute the DFT
 * [transforms/wavelet.ipynb](transforms/wavelet.ipynb): Explores the continuous wavelet transform and its application to analysis of non-stationary signals
-* [transforms/hilbert.ipynb](transforms/hilbert.ipynb): Explores the Hilbert transform and its use for computing instantaneous phase and frequency
+* [transforms/hilbert.ipynb](transforms/hilbert.ipynb): Explores the Hilbert transform, its implementation via FFTs and its use for computing instantaneous phase and frequency
 
 ## Windows
 
 * [windows.ipynb](windows.ipynb): Explores the uses of different window functions in the time and frequency domains
 
+
+## Maximum Likelihood Estimation
+
+* [mle.ipynb](mle.ipynb): Explores maximum likelihood estimation for curve fitting/ regression and its equivalence to ordinary least squares estimation
 ## ML categories to explore
 
 * Transformers
